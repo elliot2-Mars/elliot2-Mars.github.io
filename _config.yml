@@ -1,18 +1,20 @@
-# _config.yml（已为你量身定制）
+# _config.yml (已为你量身定制 - elliot2-Mars 版)
+
 title: grebluen 的创意站
 tagline: SJTU翻译 | 产品运营 & 快消品牌灵感库
 description: >-
   上海交通大学翻译专业研究生二年级在校生｜明年毕业，秋招目标：互联网产品运营岗位 / 快消行业市场&品牌岗位。
   这里记录我的产品思考、品牌创意、跨文化营销灵感，以及翻译专业在 AI 时代的应用洞察。欢迎交流！
-url: "https://grebluen.github.io"   # 改成你的（自动生成）
-baseurl: ""                         # GitHub Pages 用户站点留空
+url: "https://elliot2-Mars.github.io"   # ← 必须改成你的真实 GitHub Pages 地址
+baseurl: ""                             # GitHub Pages 用户站点留空
 
-avatar: "/assets/img/avatar.jpg"    # 之后你可以上传自己的头像替换（放 assets/img 文件夹）
-author: grebluen
-email: your-email@example.com       # ← 改成你的真实邮箱
-github: grebluen                    # 你的 GitHub 用户名
-# linkedin: your-linkedin           # 如果有，取消注释并填入
-# twitter: your-twitter             # 同上
+avatar: "/assets/img/avatar.jpg"        # 之后上传你的头像替换
+author: grebluen                        # 可以保留（你的 X 昵称/品牌）
+email: your-email@example.com           # ← 改成你的真实邮箱
+github: elliot2-Mars                    # ← 必须改成你的 GitHub 用户名
+
+# linkedin: your-linkedin               # 如果有，取消注释并填入
+# twitter: your-twitter                 # 同上
 
 # 网站语言和时区（中文优化）
 lang: zh-CN
